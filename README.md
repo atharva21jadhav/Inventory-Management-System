@@ -11,7 +11,7 @@ Technology Stack:
   
  Credits: 
 To create this project was an inspiration from Youtube video tutorials of Rizwan Khan.
-The project was created in collaboration with Omkar Dongre.
+The project was developed in collaboration with Omkar Dongre.
 
 Known Issues: Non-admin log out working improperly, forget password tab doesn't work.
 
